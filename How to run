@@ -1,0 +1,20 @@
+HOW TO RUN
+
+
+
+Create a design file, for the fulladder4 as given in the repository
+Create a design file for the adders that fulladder4 calls as given in the repository
+just create one
+Create a simulation file (testbench) and copy the code in there
+Run simulation and verify if everything and all the outputs are fine
+After that run synthesis
+Add a constraint file and add the code as given
+run synthesis
+run implementation
+run bitstream
+click on program device and it shall work
+
+NOTE THAT UR DEVICE MUST BE CONNECETED TO YOUR LAPTOP AND IS DETECTED.
+
+
+THE SUM WILL BE SHOWN ON THE LEDS 0-4 use the switches to change the numbers
